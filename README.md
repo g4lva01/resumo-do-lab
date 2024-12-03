@@ -1,21 +1,13 @@
 # resumo-do-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
-## Bootcamp .NET: Desenvolva suas habilidades back-end com a Microsoft
+# Projeto: Aplicação Prática de Conceitos de Computação em Nuvem
 
-### Descrição
-Neste bootcamp intensivo, pude mergulhará no universo do desenvolvimento back-end utilizando as tecnologias mais utilizadas pela Microsoft. Aprendi a construir APIs robustas, conectar a bancos de dados e fazer deploy na nuvem, tudo isso com o poder do .NET e C#.
+## Descrição
+Este projeto tem como objetivo demonstrar, de forma prática, os principais conceitos e benefícios da computação em nuvem. Através dele, você poderá explorar os diversos serviços e recursos oferecidos pelas plataformas em nuvem, como:
 
-**Objetivo:** Formar profissionais back-end altamente qualificados, capazes de criar soluções escaláveis e eficientes para o mercado de trabalho.
-
-### Conteúdo
-* **Fundamentos:** Domine os conceitos básicos de .NET e C#.
-* **Desenvolvimento de APIs:** Construi APIs RESTful utilizando as melhores práticas.
-* **Banco de dados:** Interaji com bancos de dados relacionais e não relacionais.
-* **Cloud:** Fiz deploy de aplicações na nuvem Microsoft Azure.
-* **Soft skills:** Aprendi a criar um perfil profissional forte, para se destacar no mercado de trabalho.
-
-### Metodologia
-* **Aulas práticas:** Conteúdo teórico e prático, com projetos reais.
-* **Mentorias:** Tire minhas dúvidas com experts da área.
-* **Desafios:** Coloquei meus conhecimentos em prática e resolvi problemas reais.
-* **Networking:** Conecte-me com outros alunos e profissionais da área.
+## Objetivos
+* **[Listar os objetivos específicos do projeto]**
+    * Construir uma aplicação escalável e resiliente utilizando os recursos da nuvem.
+    * Implementar uma arquitetura de microsserviços para otimizar a aplicação.
+    * Demonstrar a utilização de ferramentas de CI/CD para automatizar o processo de desenvolvimento.
+    * Comparar o desempenho e os custos entre diferentes soluções em nuvem.
